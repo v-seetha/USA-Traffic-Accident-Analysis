@@ -35,55 +35,8 @@ Dataset Composition**
 - Summary metrics were calculated, including total accidents recorded, average severity ratings, and casualty counts.  
 - Additional columns for day-of-week and seasonal classification were created for deeper temporal insights.
 
----
 
-**3. Dashboard Development**
-
-Using advanced data visualization tools, I built an interactive dashboard titled “USA Traffic Accidents Insights.” The design includes high-level summaries as well as detailed breakdowns of accident trends and risk factors.
-
-**Metrics Cards**
-
-- **Total Accidents:** Displays the overall number of incidents recorded within the dataset.  
-- **Average Severity:** Highlights the typical accident severity across regions.  
-- **Casualty Count:** Summarizes the total number of injuries and fatalities.
-
-**Trend Lines by Date**
-
-- **Accident Frequency by Date:** A line chart showing daily or monthly trends in accident occurrence.  
-- **Severity Trends Over Time:** Visualizes how the severity of accidents fluctuates seasonally or in response to external factors.
-
-**Geographical Mapping**
-
-- **Accident Hotspots:** Interactive maps pinpoint areas with high incident density.  
-- **Spatial Severity Analysis:** Provides insights into regions with higher rates of severe accidents.
-
-**Tabular Breakdown**
-
-- **Detailed Incident Logs:** A table listing individual accidents with their key attributes for granular analysis.  
-- **Comparative Analysis:** Allows for cross-referencing different regions, weather conditions, and time periods.
-
----
-
-**4. Key Visuals and Insights**
-
-**Overall Accident Trends**
-
-- The dashboard reveals notable temporal trends with peak accident times during rush hours and increased incidents during certain seasons.  
-- Long-term trends highlight gradual changes in accident frequency, suggesting improvements or deteriorations in road safety over time.
-
-**Severity and Environmental Impact**
-
-- Analysis shows a strong correlation between adverse weather conditions (such as rain or snow) and higher accident severity.  
-- Spatial mapping uncovers specific urban and rural areas where severe accidents are more prevalent, highlighting the need for targeted interventions.
-
-**Geographical Hotspots**
-
-- Interactive maps identify clusters of high accident rates, enabling local authorities to focus on high-risk zones.  
-- Comparative regional analysis suggests that factors like road design and traffic volume play crucial roles in accident outcomes.
-
----
-
-**5. Conclusion**
+**3. Conclusion**
 
 The “USA Traffic Accidents Insights” dashboard delivers a comprehensive overview of traffic incident dynamics across the United States. This data-driven approach not only highlights the overall frequency and severity of accidents but also uncovers key factors influencing accident outcomes, such as weather conditions and geographical factors.
 
@@ -95,7 +48,7 @@ The “USA Traffic Accidents Insights” dashboard delivers a comprehensive over
 
 ---
 
-**6. Potential Next Steps**
+**4. Potential Next Steps**
 
 **Correlation with External Data**
 
